@@ -1,0 +1,42 @@
+export const skills = {
+  Backend: [
+    { name: 'Java', highlight: true },
+    { name: 'Spring Boot', highlight: true },
+    { name: 'REST APIs', highlight: true },
+    { name: 'Spring Security' },
+    { name: 'JWT Authentication' },
+    { name: 'Spring Data JPA' },
+    { name: 'Hibernate' },
+    { name: 'Spring MVC' },
+    { name: 'Maven' },
+  ],
+  Frontend: [
+    { name: 'React' },
+    { name: 'JavaScript' },
+    { name: 'HTML5' },
+    { name: 'CSS3' },
+  ],
+  Database: [
+    { name: 'MySQL' },
+    { name: 'SQL' },
+  ],
+  'Tools & Cloud': [
+    { name: 'Git' },
+    { name: 'GitHub' },
+    { name: 'AWS EC2' },
+    { name: 'Vercel' },
+    { name: 'Postman' },
+  ],
+  'AI & Data': [
+    { name: 'Python' },
+    { name: 'YOLOv8n' },
+    { name: 'OpenCV' },
+    { name: 'Streamlit' },
+    { name: 'FastAPI' },
+    { name: 'LangGraph' },
+    { name: 'Pandas' },
+    { name: 'Plotly' },
+    { name: 'Groq' },
+    { name: 'Roboflow' },
+  ],
+};
