@@ -113,14 +113,6 @@ vercel --prod
 
 ## Items Requiring Confirmation Before Publishing
 
-| Item | Status |
-|------|--------|
-| CGPA (8.54) | Confirm current value |
-| IBM internship details | Confirm dates, title, and completion status |
-| LeetCode profile URL | Add to `src/data/profile.js` |
-| GeeksforGeeks profile URL | Add to `src/data/profile.js` |
-| Production domain | Update `robots.txt` sitemap URL |
-| Contact form endpoint | Set `VITE_FORMSPREE_ENDPOINT` in `.env` |
 
 ## Design System
 
